@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, HTML5, CSS3**
 
-- 📫 How to reach me **pnpn5031@gmail.com**
+- 📫 How to reach me **premrajak1407@gmail.com**
 
 - ⚡ Fun fact **Work done with full excitement and full of energy.**
 
