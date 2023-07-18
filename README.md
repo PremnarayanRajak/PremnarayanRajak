@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I am Prem Narayan Rajak</h1>
-<h3 align="center">A Diligent Machine Learning from Bhopal M.P.</h3>
+<h1 align="center">Hi 👋, I am Prem Narayan Rajak</h1>
+<h3 align="center">A enthusiastic programmer from Bhopal Madhya Pradesh India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premnarayanrajak&label=Profile%20views&color=0e75b6&style=flat" alt="premnarayanrajak" /> </p>
 
 - 🔭 I’m currently working on **Smart Home Automation System**
 
-- 🌱 I’m currently learning **Machine Learning, SQL, Flutter**
+- 🌱 I’m currently learning **Machine Learning,Flutter**
 
 - 💬 Ask me about **C,C++,python,SQL**
 
