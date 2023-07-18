@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, SQL, Flutter**
 
-- 💬 Ask me about **python, HTML5, CSS3**
+- 💬 Ask me about **C,C++,python,SQL**
 
 - 📫 How to reach me **premrajak1407@gmail.com**
 
