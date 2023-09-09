@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart Home Automation System**
 
-- 🌱 I’m currently learning **Machine Learning,Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **C,C++,python,SQL**
 
