@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **premrajak1407@gmail.com**
 
-- ⚡ Fun fact **Work done with full excitement and full of energy.**
+- ⚡ Fun fact : **Work done with full excitement and full of energy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
