@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Hospital Management System**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **API Intigration**
 
 - 💬 Ask me about **HTML,CSS,Javascript,C,C++,python,SQL**
 
