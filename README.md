@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premnarayanrajak&label=Profile%20views&color=0e75b6&style=flat" alt="premnarayanrajak" /> </p>
 
-- 🔭 I’m currently working on **Smart Home Automation System**
+- 🔭 I’m currently working on **Hospital Management System**
 
 - 🌱 I’m currently learning **Flutter**
 
