@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C,C++,python,SQL**
+- 💬 Ask me about **HTML,CSS,Javascript,C,C++,python,SQL**
 
 - 📫 How to reach me **premrajak1407@gmail.com**
 
