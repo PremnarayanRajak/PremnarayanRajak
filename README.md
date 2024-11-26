@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,C,C++,python,SQL**
+- 💬 Ask me about **HTML,CSS,Javascript,Python,PHP,MySQL**
 
 - 📫 How to reach me **premrajak1407@gmail.com**
 
