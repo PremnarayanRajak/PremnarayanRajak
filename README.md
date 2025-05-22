@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently upskilling in Backend Development using Java & working on projects.
 
-- 💬 Ask me about **HTML,CSS,Javascript,Python,PHP,MySQL**
+- 💬 Ask me about HTML, CSS, Javascript, PHP, Core Java, Spring Boot, Spring Data JPA, REST APIs, MySQL, Hibernate, Maven, Git, Docker, AWS.
 
 - 📫 How to reach me **premrajak1407@gmail.com**
 
