@@ -1,46 +1,64 @@
 <h1 align="center">Hi 👋, I am Prem Narayan Rajak</h1>
-<h3 align="center">💻 An enthusiastic programmer from India</h3>
+<h3 align="center">💻 A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=premnarayanrajak&label=Profile%20views&color=0e75b6&style=flat" alt="premnarayanrajak" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=premnarayanrajak&label=Profile%20views&color=0e75b6&style=flat" alt="premnarayanrajak" />
+</p>
 
-- 🔭🔭 I’m currently working on Java Backend Development, focusing on creating scalable and secure APIs using Spring Boot, Hibernate, and MySQL.
+- 🔭 I’m currently working on **Java Backend Development**, building scalable and secure APIs using **Spring Boot**, **Hibernate**, and **MySQL**.
 
-- 🌱 I’m currently upskilling in Backend Development using Java & working on projects.
+- 🌱 I’m currently upskilling in **Java-based Backend Development** and building real-world projects to strengthen my skills.
 
-- 💬 Ask me about HTML, CSS, Javascript, PHP, Core Java, Spring Boot, Spring Data JPA, REST APIs, MySQL, Hibernate, Maven, Git, Docker, AWS.
+- 💬 Ask me about **Core Java, Spring Boot, Spring Data JPA, REST APIs, MySQL, Hibernate, Maven, Git, Docker, AWS**
 
-- 📫 How to reach me **premrajak1407@gmail.com**
+- 📫 Reach me at: **premrajak1407@gmail.com**
 
-- ⚡ Fun fact : **Work done with full excitement and full of energy.**
+- ⚡ Fun fact: **I approach every project with full excitement and positive energy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/premnarayan-rajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premnarayan-rajak" height="30" width="40" /></a>
-
- <a href="https://www.codechef.com/users/premnarayan_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premnarayan_14" height="30" width="40" /></a> 
- <a href="https://www.hackerrank.com/pnpn5031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pnpn5031" height="30" width="40" /></a> 
-<a href="https://auth.geeksforgeeks.org/user/pnpn5031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pnpn5031" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/premnarayan-rajak" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premnarayan-rajak" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/premnarayan_14" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="premnarayan_14" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/pnpn5031" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pnpn5031" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/pnpn5031" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pnpn5031" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  
- 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> 
-</a>
+<p align="left">
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://spring.io/images/spring-boot-icon-4c80d1e592eae273b6b3a1cd646d82d4.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/H/hibernate-logo-3CE3A2A0FF-seeklogo.com.png" alt="Hibernate" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Maven" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+</p>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://spring.io/images/spring-boot-icon-4c80d1e592eae273b6b3a1cd646d82d4.svg" alt="Spring Boot" width="40" height="40"/>
-</a>
-
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=premnarayanrajak&show_icons=true&locale=en&layout=compact" alt="premnarayanrajak" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=premnarayanrajak&show_icons=true&locale=en&layout=compact" alt="premnarayanrajak" />
+</p>
