@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Prem Narayan Rajak</h1>
-<h3 align="center">A enthusiastic programmer from Bhopal Madhya Pradesh India</h3>
+<h3 align="center">A enthusiastic programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premnarayanrajak&label=Profile%20views&color=0e75b6&style=flat" alt="premnarayanrajak" /> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭🔭 I’m currently working on Java Backend Development, focusing on creating scalable and secure APIs using Spring Boot, Hibernate, and MySQL.
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently upskilling in Backend Development using Java & working on projects.
 
 - 💬 Ask me about **HTML,CSS,Javascript,Python,PHP,MySQL**
 
