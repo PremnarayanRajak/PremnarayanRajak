@@ -40,6 +40,7 @@
   <img src="https://spring.io/images/spring-boot-icon-4c80d1e592eae273b6b3a1cd646d82d4.svg" alt="Spring Boot" width="40" height="40" />
 </a>
 
+
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="40" height="40" />
 </a>
