@@ -36,12 +36,14 @@
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://spring.io/images/spring-boot-icon-4c80d1e592eae273b6b3a1cd646d82d4.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/H/hibernate-logo-3CE3A2A0FF-seeklogo.com.png" alt="Hibernate" width="40" height="40"/>
-  </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://spring.io/images/spring-boot-icon-4c80d1e592eae273b6b3a1cd646d82d4.svg" alt="Spring Boot" width="40" height="40" />
+</a>
+
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/H/hibernate-logo-3CE3A2A0FF-seeklogo.com.png" alt="Hibernate" width="40" height="40" />
+</a>
+
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Maven" width="40" height="40"/>
   </a>
