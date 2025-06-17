@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/H/hibernate-logo-3CE3A2A0FF-seeklogo.com.png" alt="Hibernate" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="40" height="40" />
 </a>
 
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
