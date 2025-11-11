@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently upskilling in **Java-based Backend Development** and building real-world projects to strengthen my skills.
 
-- 💬 Ask me about **Core Java, Spring Boot, Spring Data JPA, REST APIs, MySQL, Hibernate, Maven, Git, Docker, AWS**
+- 💬 Ask me about **Core Java, Spring Boot, Spring Data JPA, REST APIs, MySQL, Hibernate, Maven, Git, Docker, AWS(EC2,S3)**
 
 - 📫 Reach me at: **premrajak1407@gmail.com**
 
